@@ -43,12 +43,13 @@ I don't paste model output into a repo. I turn it into a pipeline that can be me
       Offline Japanese. ONNX neural TTS + FSRS v5.
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/mindsurf0176/callog">
-        <img src="./assets/callog.jpg" alt="Callog" />
+      <a href="https://github.com/mindsurf0176/relaycode">
+        <img src="./assets/relaycode.jpg" alt="RelayCode" />
       </a>
       <br>
-      <strong><a href="https://github.com/mindsurf0176/callog">Callog</a></strong><br>
-      AI food calorie estimation. Photo in, macros out — 5-stage correction pipeline.
+      <strong><a href="https://github.com/mindsurf0176/relaycode">RelayCode</a></strong><br>
+      Remote-control local Codex from a phone. Repos and credentials stay on the Mac.
+
     </td>
   </tr>
 </table>
@@ -72,7 +73,6 @@ I don't paste model output into a repo. I turn it into a pipeline that can be me
 
 | Project | What it is |
 | --- | --- |
-| **[RelayCode](https://github.com/mindsurf0176/relaycode)** | Remote-control local Codex from a phone. Repos, shell, and credentials stay off hosted services. |
 | **[PixelForge](https://github.com/mindsurf0176/pixelforge-mcp)** | AI illustration → in-game pixel sprites. [UE5 bridge](https://github.com/mindsurf0176/pixelforge-ue5-bridge) |
 | **[AssetForge](https://github.com/mindsurf0176/assetforge)** | Deterministic 2D asset normalization, validation, and engine export. |
 | **[CutAI](https://github.com/mindsurf0176/cutai)** | Local AI video editor driven by natural-language cuts. |
