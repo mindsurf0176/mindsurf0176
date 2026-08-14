@@ -43,12 +43,12 @@ I don't paste model output into a repo. I turn it into a pipeline that can be me
       Offline Japanese. ONNX neural TTS + FSRS v5.
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/mindsurf0176/moodroll">
-        <img src="./assets/moodroll.jpg" alt="Moodroll" />
+      <a href="https://github.com/mindsurf0176/callog">
+        <img src="./assets/callog.jpg" alt="Callog" />
       </a>
       <br>
-      <strong><a href="https://github.com/mindsurf0176/moodroll">Moodroll</a></strong><br>
-      Film-camera iOS. 48 on-device color-science filters.
+      <strong><a href="https://github.com/mindsurf0176/callog">Callog</a></strong><br>
+      AI food calorie estimation. Photo in, macros out — 5-stage correction pipeline.
     </td>
   </tr>
 </table>
