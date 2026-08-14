@@ -49,7 +49,6 @@ I don't paste model output into a repo. I turn it into a pipeline that can be me
       <br>
       <strong><a href="https://github.com/mindsurf0176/relaycode">RelayCode</a></strong><br>
       Remote-control local Codex from a phone. Repos and credentials stay on the Mac.
-
     </td>
   </tr>
 </table>
