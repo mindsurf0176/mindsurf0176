@@ -16,7 +16,7 @@ I don't paste model output into a repo. I turn it into a pipeline that can be me
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <a href="https://oracletarot.kr">
         <img src="./assets/oracle.jpg" alt="Oracle Tarot" />
       </a>
@@ -24,20 +24,7 @@ I don't paste model output into a repo. I turn it into a pipeline that can be me
       <strong><a href="https://oracletarot.kr">Oracle Tarot</a></strong><br>
       Paid LLM service. Deterministic engine, multi-provider fallback, billing recovery.
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/mindsurf0176/vesper">
-        <img src="./assets/vesper.jpg" alt="Vesper in Godot" />
-      </a>
-      <br>
-      <strong><a href="https://github.com/mindsurf0176/vesper">Vesper</a></strong><br>
-      State-based sprites, deterministic assembly, Godot runtime QA.
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/mindsurf0176/haebari">
         <img src="./assets/haebari.jpg" alt="Haebari" />
       </a>
@@ -45,7 +32,9 @@ I don't paste model output into a repo. I turn it into a pipeline that can be me
       <strong><a href="https://github.com/mindsurf0176/haebari">Haebari</a></strong><br>
       Astrology app. Live on Toss, App Store under review.
     </td>
-    <td width="33%" valign="top" align="center">
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/mindsurf0176/kotoba">
         <img src="./assets/kotoba.jpg" alt="Kotoba" />
       </a>
@@ -53,7 +42,7 @@ I don't paste model output into a repo. I turn it into a pipeline that can be me
       <strong><a href="https://github.com/mindsurf0176/kotoba">Kotoba</a></strong><br>
       Offline Japanese. ONNX neural TTS + FSRS v5.
     </td>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/mindsurf0176/moodroll">
         <img src="./assets/moodroll.jpg" alt="Moodroll" />
       </a>
@@ -63,6 +52,17 @@ I don't paste model output into a repo. I turn it into a pipeline that can be me
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/mindsurf0176/vesper">
+    <img src="./assets/vesper.jpg" alt="Vesper in Godot" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <strong><a href="https://github.com/mindsurf0176/vesper">Vesper</a></strong>
+  — state-based sprites, deterministic assembly, Godot runtime QA
+</p>
 
 <p align="center">
   <img src="./assets/vesper-strip.jpg" alt="Vesper animation states — idle, walk, aim, attack" width="100%">
