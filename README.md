@@ -1,42 +1,83 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
-  <img src="./header-light.svg" alt="Minseo Lee — AI Automation Engineer · Technical Art & Tooling" width="100%">
-</picture>
+<p align="center">
+  <img src="./assets/header.jpg" alt="Minseo Lee — AI Automation · Technical Art · Tooling" width="100%">
+</p>
 
 I don't paste model output into a repo. I turn it into a pipeline that can be measured, rerun, and verified at runtime — then I ship the consumer apps those pipelines feed.
 
-[minseo.log](https://minseo-log.vercel.app) · [oracletarot.kr](https://oracletarot.kr) · [mindsurf0176@gmail.com](mailto:mindsurf0176@gmail.com)
+<p align="center">
+  <a href="https://minseo-log.vercel.app">minseo.log</a>
+  &nbsp;·&nbsp;
+  <a href="https://oracletarot.kr">oracletarot.kr</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:mindsurf0176@gmail.com">email</a>
+</p>
 
 ---
 
-**Tools** — local AI work that continues on a phone  
-**Pipelines** — generated assets normalized until an engine will take them  
-**Products** — consumer apps where billing, cache, and offline actually hold
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://oracletarot.kr">
+        <img src="./assets/oracle.jpg" alt="Oracle Tarot" />
+      </a>
+      <br>
+      <strong><a href="https://oracletarot.kr">Oracle Tarot</a></strong><br>
+      Paid LLM service. Deterministic engine, multi-provider fallback, billing recovery.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mindsurf0176/vesper">
+        <img src="./assets/vesper.jpg" alt="Vesper in Godot" />
+      </a>
+      <br>
+      <strong><a href="https://github.com/mindsurf0176/vesper">Vesper</a></strong><br>
+      State-based sprites, deterministic assembly, Godot runtime QA.
+    </td>
+  </tr>
+</table>
 
----
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/mindsurf0176/haebari">
+        <img src="./assets/haebari.jpg" alt="Haebari" />
+      </a>
+      <br>
+      <strong><a href="https://github.com/mindsurf0176/haebari">Haebari</a></strong><br>
+      Astrology app. Live on Toss, App Store under review.
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/mindsurf0176/kotoba">
+        <img src="./assets/kotoba.jpg" alt="Kotoba" />
+      </a>
+      <br>
+      <strong><a href="https://github.com/mindsurf0176/kotoba">Kotoba</a></strong><br>
+      Offline Japanese. ONNX neural TTS + FSRS v5.
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/mindsurf0176/moodroll">
+        <img src="./assets/moodroll.jpg" alt="Moodroll" />
+      </a>
+      <br>
+      <strong><a href="https://github.com/mindsurf0176/moodroll">Moodroll</a></strong><br>
+      Film-camera iOS. 48 on-device color-science filters.
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="./assets/vesper-strip.jpg" alt="Vesper animation states — idle, walk, aim, attack" width="100%">
+</p>
 
 ### Pipelines & tools
 
 | Project | What it is |
 | --- | --- |
 | **[RelayCode](https://github.com/mindsurf0176/relaycode)** | Remote-control local Codex from a phone. Repos, shell, and credentials stay off hosted services. |
-| **[PixelForge](https://github.com/mindsurf0176/pixelforge-mcp)** | AI illustration → in-game pixel sprites. Pixelize, unify palettes, sheets, animation. [UE5 bridge](https://github.com/mindsurf0176/pixelforge-ue5-bridge) |
-| **[Vesper](https://github.com/mindsurf0176/vesper)** | State-based sprites, deterministic assembly, Godot runtime QA. |
+| **[PixelForge](https://github.com/mindsurf0176/pixelforge-mcp)** | AI illustration → in-game pixel sprites. [UE5 bridge](https://github.com/mindsurf0176/pixelforge-ue5-bridge) |
 | **[AssetForge](https://github.com/mindsurf0176/assetforge)** | Deterministic 2D asset normalization, validation, and engine export. |
 | **[CutAI](https://github.com/mindsurf0176/cutai)** | Local AI video editor driven by natural-language cuts. |
 | **[Fissh](https://github.com/mindsurf0176/fissh)** | Claude Code from a phone. QR pairing, Tailscale auth. |
 
-### Shipped
+Build notes live on [minseo.log](https://minseo-log.vercel.app).
 
-| Project | What it is |
-| --- | --- |
-| **[Oracle Tarot](https://oracletarot.kr)** | Paid LLM service. Deterministic engine, multi-provider fallback, billing recovery. |
-| **[Haebari](https://github.com/mindsurf0176/haebari)** | Astrology app. Live on Toss, App Store under review. Four-layer cache, auth, sync. |
-| **[Kotoba](https://github.com/mindsurf0176/kotoba)** | Offline Japanese learning. ONNX neural TTS + FSRS v5, in Swift. |
-| **[Moodroll](https://github.com/mindsurf0176/moodroll)** | Film-camera iOS app. 48 on-device color-science filters. |
-
-Build notes live on [minseo.log](https://minseo-log.vercel.app) — less product recap, more why a structure was chosen and how it was checked.
-
----
-
-problem → measurable baseline → deterministic pipeline → runtime QA → production feedback
+<p align="center"><sub>problem → measurable baseline → deterministic pipeline → runtime QA → production feedback</sub></p>
