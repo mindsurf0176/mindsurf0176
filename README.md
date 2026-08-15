@@ -13,8 +13,6 @@ I don't paste model output into a repo. I turn it into a pipeline that can be me
 <p align="center">
   <a href="https://oracletarot.kr">oracletarot.kr</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/mindsurf0176">github</a>
-  &nbsp;·&nbsp;
   <a href="mailto:mindsurf0176@gmail.com">email</a>
 </p>
 
