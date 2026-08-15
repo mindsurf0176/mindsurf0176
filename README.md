@@ -5,8 +5,6 @@
 I don't paste model output into a repo. I turn it into a pipeline that can be measured, rerun, and verified at runtime — then I ship the consumer apps those pipelines feed.
 
 <p align="center">
-  <a href="https://minseo-log.vercel.app">minseo.log</a>
-  &nbsp;·&nbsp;
   <a href="https://oracletarot.kr">oracletarot.kr</a>
   &nbsp;·&nbsp;
   <a href="mailto:mindsurf0176@gmail.com">email</a>
