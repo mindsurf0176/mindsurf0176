@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://aitop100.org/">
-    <img src="./assets/award.jpg" alt="AI TOP 100 (CAMPUS) Finalist — Apr 2026, Kakao Impact × Brian Impact, 본선 진출 · 100인 선정" width="100%">
+    <img src="./assets/aitop100-finalist.png" alt="AI TOP 100 (CAMPUS) 2026 Finalist" width="240">
   </a>
 </p>
 
