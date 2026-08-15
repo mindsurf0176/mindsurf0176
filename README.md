@@ -2,13 +2,27 @@
   <img src="./assets/header.jpg" alt="Minseo Lee — AI Automation · Technical Art · Tooling" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://aitop100.org/">
+    <img src="./assets/award.jpg" alt="AI TOP 100 (CAMPUS) Finalist — Apr 2026, Kakao Impact × Brian Impact, 본선 진출 · 100인 선정" width="100%">
+  </a>
+</p>
+
 I don't paste model output into a repo. I turn it into a pipeline that can be measured, rerun, and verified at runtime — then I ship the consumer apps those pipelines feed.
 
 <p align="center">
   <a href="https://oracletarot.kr">oracletarot.kr</a>
   &nbsp;·&nbsp;
+  <a href="https://github.com/mindsurf0176">github</a>
+  &nbsp;·&nbsp;
   <a href="mailto:mindsurf0176@gmail.com">email</a>
 </p>
+
+### Recognition
+
+**[AI TOP 100 (CAMPUS)](https://aitop100.org/)** — Finalist · Apr 2026  
+Kakao Impact × Brian Impact. Ministry of Science and ICT & Kakao.  
+Selected as one of **100 finalists** from **3,000** students. 본선 진출 · 100인 선정.
 
 ---
 
