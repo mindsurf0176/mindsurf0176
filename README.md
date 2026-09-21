@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.jpg" alt="Minseo Lee — AI Automation · Technical Art · Tooling" width="100%">
+  <img src="./assets/header.jpg" alt="Minseo Lee — AI products, local-first tools, and technical art" width="100%">
 </p>
 
 <p align="center">
@@ -8,10 +8,12 @@
   </a>
 </p>
 
-I don't paste model output into a repo. I turn it into a pipeline that can be measured, rerun, and verified at runtime — then I ship the consumer apps those pipelines feed.
+I build AI products, local-first developer tools, and game-asset pipelines. The interesting part is not a model call: it is the reliable system around it — clear constraints, reproducible output, and a product people can actually use.
 
 <p align="center">
-  <a href="https://oracletarot.kr">oracletarot.kr</a>
+  <a href="https://yeonwol.vercel.app">연월</a>
+  &nbsp;·&nbsp;
+  <a href="https://minseo-log.vercel.app">build notes</a>
   &nbsp;·&nbsp;
   <a href="mailto:mindsurf0176@gmail.com">email</a>
 </p>
@@ -20,73 +22,51 @@ I don't paste model output into a repo. I turn it into a pipeline that can be me
 
 **[AI TOP 100 (CAMPUS)](https://aitop100.org/)** — Finalist · Apr 2026  
 Kakao Impact × Brian Impact. Ministry of Science and ICT & Kakao.  
-Selected as one of **100 finalists** from **3,000** students. 본선 진출 · 100인 선정.
+Selected as one of **100 finalists** from **3,000** students.
 
----
+### Shipping now
+
+| Project | What it does |
+| --- | --- |
+| **[DeskPet](https://github.com/mindsurf0176/deskpet)** · [v1.3](https://github.com/mindsurf0176/deskpet/releases/tag/v1.3) | A notarized macOS companion that reflects Codex, OpenCode, and Orca activity — with agent hooks, window perching, and configurable captions. |
+| **[typad](https://github.com/mindsurf0176/typad)** · [v0.3.0](https://github.com/mindsurf0176/typad/releases/tag/v0.3.0) | A lightweight Notepad++-style editor for macOS: tabs, workspace search, syntax highlighting, and no third-party runtime dependencies. |
+| **[연월](https://yeonwol.vercel.app)** | A Korean tarot and saju reading experience with a deliberate, visual entry flow. Live on the web. |
+| **[AssetForge](https://github.com/mindsurf0176/assetforge)** | A deterministic 2D sprite pipeline: normalize, validate, preview, hash, and export animation assets for web games and Godot. |
+
+### Selected builds
 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://oracletarot.kr">
-        <img src="./assets/oracle.jpg" alt="Oracle Tarot" />
-      </a>
-      <br>
-      <strong><a href="https://oracletarot.kr">Oracle Tarot</a></strong><br>
-      Paid LLM service. Deterministic engine, multi-provider fallback, billing recovery.
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/mindsurf0176/haebari">
-        <img src="./assets/haebari.jpg" alt="Haebari" />
-      </a>
-      <br>
-      <strong><a href="https://github.com/mindsurf0176/haebari">Haebari</a></strong><br>
-      Astrology app. Live on Toss, App Store under review.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/mindsurf0176/kotoba">
-        <img src="./assets/kotoba.jpg" alt="Kotoba" />
-      </a>
-      <br>
-      <strong><a href="https://github.com/mindsurf0176/kotoba">Kotoba</a></strong><br>
-      Offline Japanese. ONNX neural TTS + FSRS v5.
-    </td>
-    <td width="50%" valign="top" align="center">
       <a href="https://github.com/mindsurf0176/relaycode">
-        <img src="./assets/relaycode.jpg" alt="RelayCode" />
+        <img src="./assets/relaycode.jpg" alt="RelayCode mobile pairing screen" />
       </a>
       <br>
       <strong><a href="https://github.com/mindsurf0176/relaycode">RelayCode</a></strong><br>
-      Remote-control local Codex from a phone. Repos and credentials stay on the Mac.
+      Phone-to-Mac control for local Codex. Repositories and credentials remain on the Mac.
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/mindsurf0176/vesper">
+        <img src="./assets/vesper.jpg" alt="Vesper technical-art scene" />
+      </a>
+      <br>
+      <strong><a href="https://github.com/mindsurf0176/vesper">Vesper</a></strong><br>
+      Godot technical art: state-based sprites, deterministic assembly, and runtime QA.
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/mindsurf0176/vesper">
-    <img src="./assets/vesper.jpg" alt="Vesper in Godot" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <strong><a href="https://github.com/mindsurf0176/vesper">Vesper</a></strong>
-  — state-based sprites, deterministic assembly, Godot runtime QA
-</p>
-
-<p align="center">
   <img src="./assets/vesper-strip.jpg" alt="Vesper animation states — idle, walk, aim, attack" width="100%">
 </p>
 
-### Pipelines & tools
+### More tools
 
 | Project | What it is |
 | --- | --- |
-| **[PixelForge](https://github.com/mindsurf0176/pixelforge-mcp)** | AI illustration → in-game pixel sprites. [UE5 bridge](https://github.com/mindsurf0176/pixelforge-ue5-bridge) |
-| **[AssetForge](https://github.com/mindsurf0176/assetforge)** | Deterministic 2D asset normalization, validation, and engine export. |
-| **[CutAI](https://github.com/mindsurf0176/cutai)** | Local AI video editor driven by natural-language cuts. |
-| **[Fissh](https://github.com/mindsurf0176/fissh)** | Claude Code from a phone. QR pairing, Tailscale auth. |
-
-Build notes live on [minseo.log](https://minseo-log.vercel.app).
+| **[CutAI](https://github.com/mindsurf0176/cutai)** | A local AI video editor driven by natural-language edit commands. |
+| **[PixelForge](https://github.com/mindsurf0176/pixelforge-mcp)** | AI illustration to game-ready pixel sprites, with an [Unreal Engine bridge](https://github.com/mindsurf0176/pixelforge-ue5-bridge). |
+| **[Kotoba](https://github.com/mindsurf0176/kotoba)** | Offline Japanese learning with ONNX neural TTS and FSRS v5. |
+| **[Fissh](https://github.com/mindsurf0176/fissh)** | A phone control surface for Claude Code with QR pairing and Tailscale authentication. |
 
 <p align="center"><sub>problem → measurable baseline → deterministic pipeline → runtime QA → production feedback</sub></p>
