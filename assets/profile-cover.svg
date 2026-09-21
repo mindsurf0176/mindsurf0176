@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Minseo Lee — A little studio for useful things.</title>
+<desc id="desc">A blue illustrated workbench with a code editor, a pixel companion, and a sprite sheet.</desc>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#c5d3f1"/></pattern></defs>
+<rect width="1200" height="420" rx="24" fill="#edf3ff"/>
+<rect x="714" width="486" height="420" fill="url(#grid)"/>
+<path d="M56 58h24v24H56z" fill="#315bdf"/><path d="M62 64h12v12H62z" fill="#edf3ff"/>
+<text x="96" y="76" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3" fill="#315bdf">MINSEO'S WORKBENCH</text>
+<text x="52" y="205" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700" letter-spacing="-5" fill="#1c2c52">Minseo Lee<tspan fill="#315bdf">.</tspan></text>
+<text x="57" y="256" font-family="Georgia, serif" font-size="31" font-style="italic" fill="#45608f">A little studio for useful things.</text>
+<path d="M58 303h584" stroke="#c6d3ed"/>
+<text x="58" y="340" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1.5" fill="#45608f">AI PRODUCTS</text>
+<circle cx="208" cy="334" r="3" fill="#e58980"/>
+<text x="229" y="340" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1.5" fill="#45608f">LOCAL TOOLS</text>
+<circle cx="376" cy="334" r="3" fill="#e58980"/>
+<text x="397" y="340" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1.5" fill="#45608f">TECHNICAL ART</text>
+<g transform="translate(755 86) rotate(-5 162 109)">
+<rect x="8" y="10" width="326" height="224" rx="14" fill="#d5dff5"/>
+<rect width="326" height="224" rx="14" fill="#fff" stroke="#b4c5e9" stroke-width="2"/>
+<path d="M0 40h326" stroke="#dce4f5"/>
+<circle cx="20" cy="20" r="4" fill="#e58980"/><circle cx="36" cy="20" r="4" fill="#dbc379"/><circle cx="52" cy="20" r="4" fill="#87b3a9"/>
+<text x="287" y="26" font-family="monospace" font-size="18" fill="#8597b7">⌘</text>
+<g fill="none" stroke-linecap="round" stroke-width="7"><path d="M28 72h52m-34 23h100m-100 23h72m-90 23h25" stroke="#315bdf"/><path d="M99 72h82m-20 23h32m-28 23h56m-150 23h109" stroke="#cbd6ed"/></g>
+<rect x="24" y="171" width="130" height="27" rx="5" fill="#edf3ff"/>
+<text x="37" y="190" font-family="monospace" font-size="13" fill="#315bdf">build → run</text>
+</g>
+<g transform="translate(963 224) rotate(7 80 66)">
+<rect x="5" y="7" width="169" height="135" rx="12" fill="#ced9ee"/>
+<rect width="169" height="135" rx="12" fill="#fdf4ee" stroke="#dfc4b7" stroke-width="2"/>
+<text x="15" y="27" font-family="monospace" font-size="12" fill="#996955">sprite.frames</text>
+<g fill="#ead9cd"><rect x="15" y="42" width="40" height="40" rx="5"/><rect x="64" y="42" width="40" height="40" rx="5"/><rect x="113" y="42" width="40" height="40" rx="5"/></g>
+<g fill="#a37662"><path d="M28 51h13v7h7v12H22V58h6z"/><path d="M75 50h14v8h8v13H69V58h6z"/><path d="M126 53h13v6h7v13h-27V59h7z"/></g>
+<path d="M18 107h131" stroke="#dfc4b7" stroke-width="2"/><path d="m73 98 14 9-14 9z" fill="#a37662"/>
+</g>
+<g transform="translate(1020 48)" fill="#315bdf">
+<path d="M0 0h18v12h36V0h18v18h12v42H72v12H12V60H0z"/>
+<path d="M12 72h60v12H12z"/>
+<path d="M12 28h12v12H12zm36 0h12v12H48z" fill="#edf3ff"/>
+<path d="M30 46h12v6H30z" fill="#e58980"/>
+</g>
+<path d="M736 358h174" stroke="#b4c5e9" stroke-width="2"/>
+<circle cx="926" cy="358" r="5" fill="#315bdf"/>
+</svg>

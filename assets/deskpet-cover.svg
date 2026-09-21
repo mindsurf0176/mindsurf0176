@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-labelledby="title">
+<title id="title">DeskPet — a companion for your coding day</title>
+<rect width="600" height="300" rx="18" fill="#edf3ff"/>
+<text x="30" y="40" font-family="monospace" font-size="12" letter-spacing="2" fill="#496bba">MACOS COMPANION</text>
+<text x="27" y="101" font-family="Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="-2" fill="#243d78">DeskPet</text>
+<text x="30" y="137" font-family="Georgia, serif" font-size="21" font-style="italic" fill="#496bba">A little company.</text>
+<g transform="translate(313 96)">
+<rect x="6" y="7" width="253" height="148" rx="10" fill="#d0ddf7"/>
+<rect width="253" height="148" rx="10" fill="#fff" stroke="#b1c5ed" stroke-width="2"/>
+<path d="M0 31h253" stroke="#dce5f6"/><circle cx="16" cy="16" r="3.5" fill="#e58980"/><circle cx="29" cy="16" r="3.5" fill="#dbc379"/><circle cx="42" cy="16" r="3.5" fill="#87b3a9"/>
+<g stroke="#ccd9ef" stroke-width="6" stroke-linecap="round"><path d="M21 55h72m-54 21h108m-108 21h68m-86 21h49"/></g>
+<path d="M164-60h15v10h30v-10h15v15h10v35h-10V0h-60v-10h-10v-35h10z" fill="#315bdf"/>
+<path d="M166-36h10v10h-10zm36 0h10v10h-10z" fill="#edf3ff"/><path d="M182-18h12v5h-12z" fill="#e58980"/>
+<path d="M162 0h66" stroke="#315bdf" stroke-width="8"/>
+</g>
+<path d="M30 224h214" stroke="#c4d3ef"/>
+<text x="30" y="257" font-family="monospace" font-size="12" fill="#496bba">Codex · OpenCode · Orca</text>
+</svg>

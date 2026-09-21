@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-labelledby="title">
+<title id="title">typad — a lightweight text editor</title>
+<rect width="600" height="300" rx="18" fill="#edf6f3"/>
+<text x="30" y="40" font-family="monospace" font-size="12" letter-spacing="2" fill="#537c70">TEXT EDITOR</text>
+<text x="27" y="101" font-family="Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-2" fill="#234b40">typad</text>
+<text x="30" y="137" font-family="Georgia, serif" font-size="21" font-style="italic" fill="#537c70">Room to write.</text>
+<g transform="translate(317 59) rotate(4 122 93)">
+<rect x="6" y="7" width="249" height="188" rx="10" fill="#cfe2da"/>
+<rect width="249" height="188" rx="10" fill="#fff" stroke="#a9c9bb" stroke-width="2"/>
+<path d="M0 36h249" stroke="#d5e5de"/>
+<rect x="12" y="11" width="85" height="25" rx="5" fill="#edf6f3"/>
+<text x="24" y="28" font-family="monospace" font-size="11" fill="#537c70">notes.txt</text>
+<text x="113" y="27" font-family="monospace" font-size="11" fill="#94ab9f">main.py</text>
+<g font-family="monospace" font-size="11" fill="#98b2a6"><text x="14" y="65">1</text><text x="14" y="90">2</text><text x="14" y="115">3</text><text x="14" y="140">4</text></g>
+<path d="M39 61h132m-132 25h163m-163 25h113" stroke="#a7c9b9" stroke-width="6" stroke-linecap="round"/>
+<path d="M39 129v16" stroke="#32765d" stroke-width="2"/>
+<path d="M0 165h249" stroke="#d5e5de"/><text x="139" y="180" font-family="monospace" font-size="9" fill="#537c70">UTF-8 · Ln 4, Col 1</text>
+</g>
+<path d="M30 224h214" stroke="#c8ddd3"/>
+<text x="30" y="257" font-family="monospace" font-size="12" fill="#537c70">Python · tkinter · macOS</text>
+</svg>

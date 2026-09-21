@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-labelledby="title">
+<title id="title">AssetForge — a reproducible sprite pipeline</title>
+<rect width="600" height="300" rx="18" fill="#f0eef9"/>
+<text x="30" y="40" font-family="monospace" font-size="12" letter-spacing="2" fill="#77639d">SPRITE PIPELINE</text>
+<text x="27" y="101" font-family="Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-2" fill="#4e3d72">AssetForge</text>
+<text x="30" y="137" font-family="Georgia, serif" font-size="21" font-style="italic" fill="#77639d">Art, frame by frame.</text>
+<g transform="translate(338 63)">
+<rect x="6" y="7" width="230" height="186" rx="10" fill="#dbd4ee"/>
+<rect width="230" height="186" rx="10" fill="#fff" stroke="#bfb0d9" stroke-width="2"/>
+<g fill="#f0eef9"><rect x="15" y="15" width="60" height="60" rx="5"/><rect x="85" y="15" width="60" height="60" rx="5"/><rect x="155" y="15" width="60" height="60" rx="5"/><rect x="15" y="85" width="60" height="60" rx="5"/><rect x="85" y="85" width="60" height="60" rx="5"/><rect x="155" y="85" width="60" height="60" rx="5"/></g>
+<g fill="#8067ac">
+<path d="M37 27h16v8h8v24H29V35h8z"/>
+<path d="M107 25h16v8h8v24h-8v8h-8v-8H99V33h8z"/>
+<path d="M177 29h16v8h8v20h-8v8h-8v-8h-16V37h8z"/>
+<path d="M37 101h16v8h16v16H29v-16h8z"/>
+<path d="M107 97h16v8h8v24h-8v8h-8v-8H99v-24h8z"/>
+<path d="M177 97h16v8h8v24h-32v-24h8z"/>
+</g>
+<path d="M16 165h139" stroke="#d7cee7" stroke-width="3"/><path d="m173 159 5 5 9-10" stroke="#8067ac" stroke-width="2" fill="none"/><text x="194" y="165" font-family="monospace" font-size="9" fill="#77639d">QA</text>
+</g>
+<path d="M30 224h260" stroke="#d6cde7"/>
+<text x="30" y="257" font-family="monospace" font-size="12" fill="#77639d">Normalize · Verify · Export</text>
+</svg>
