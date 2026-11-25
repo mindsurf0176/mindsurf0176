@@ -50,3 +50,9 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<p align="center">
+  <sub>Made with care, by Minseo.</sub>
+</p>
