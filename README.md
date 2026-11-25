@@ -50,17 +50,3 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-### Also on the shelf
-
-- **[RelayCode ↗](https://github.com/mindsurf0176/relaycode)** — Local Codex from your phone. Repositories and credentials stay on the Mac.
-- **[CutAI ↗](https://github.com/mindsurf0176/cutai)** — Local video editing with natural-language commands.
-- **[PixelForge ↗](https://github.com/mindsurf0176/pixelforge-mcp)** — Game-ready pixel sprites, with an [Unreal Engine bridge](https://github.com/mindsurf0176/pixelforge-ue5-bridge).
-- **[Kotoba ↗](https://github.com/mindsurf0176/kotoba)** — Offline Japanese, ONNX neural TTS, and FSRS v5.
-- **[Fissh ↗](https://github.com/mindsurf0176/fissh)** — Claude Code on your phone. QR pairing and Tailscale authentication.
-
-<p align="center">
-  <sub>Made with care, by Minseo.</sub>
-</p>
