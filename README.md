@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/profile-cover.svg" alt="Minseo Lee — A little studio for useful things. AI products, local tools, and technical art." width="100%">
+  <img src="./assets/profile-workbench.webp" alt="Minseo Lee — A little studio for useful things. AI products, local tools, and technical art." width="100%">
 </p>
 
 <p align="center">
@@ -15,9 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://minseo-log.vercel.app"><strong>Build notes ↗</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://yeonwol.vercel.app"><strong>연월 ↗</strong></a>
+  <a href="https://neuralab.kr"><strong>Neural Lab ↗</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:mindsurf0176@gmail.com"><strong>Say hello ↗</strong></a>
 </p>
@@ -29,41 +27,29 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/mindsurf0176/deskpet"><img src="./assets/deskpet-cover.svg" width="100%" alt="DeskPet — macOS coding companion"></a>
-      <p>A desktop companion for Codex, OpenCode, and Orca.</p>
-      <p><a href="https://github.com/mindsurf0176/deskpet"><strong>DeskPet ↗</strong></a> &nbsp; <a href="https://github.com/mindsurf0176/deskpet/releases/tag/v1.3"><sub>v1.3 · notarized</sub></a></p>
+      <a href="https://github.com/mindsurf0176/editstyle"><img src="./assets/workbench-editstyle.webp" width="100%" alt="EditStyle — an illustrated video editing timeline"></a>
+      <p>Edit video with natural-language instructions and render it locally.</p>
+      <p><a href="https://github.com/mindsurf0176/editstyle"><strong>EditStyle ↗</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/mindsurf0176/typad"><img src="./assets/typad-cover.svg" width="100%" alt="typad — lightweight text editor"></a>
-      <p>A lightweight editor with tabs, syntax highlighting, and workspace search.</p>
-      <p><a href="https://github.com/mindsurf0176/typad"><strong>typad ↗</strong></a> &nbsp; <a href="https://github.com/mindsurf0176/typad/releases/tag/v0.3.0"><sub>v0.3.0</sub></a></p>
+      <a href="https://github.com/mindsurf0176/pixelforge-mcp"><img src="./assets/workbench-pixelforge.webp" width="100%" alt="PixelForge MCP — a fox illustration turned into a pixel sprite"></a>
+      <p>Turn illustrations into game-ready pixel sprites through MCP.</p>
+      <p><a href="https://github.com/mindsurf0176/pixelforge-mcp"><strong>PixelForge MCP ↗</strong></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://yeonwol.vercel.app"><img src="./assets/yeonwol-cover.svg" width="100%" alt="연월 · Yeonwol — tarot and saju"></a>
-      <p>타로와 사주로 지금의 고민을 돌아보는 시간.</p>
-      <p><a href="https://yeonwol.vercel.app"><strong>Visit 연월 ↗</strong></a></p>
+      <a href="https://github.com/mindsurf0176/waveguard"><img src="./assets/workbench-waveguard.webp" width="100%" alt="WaveGuard — a circuit board and signal waveforms"></a>
+      <p>Replay and visualize Wi-Fi CSI data in your browser.</p>
+      <p><a href="https://github.com/mindsurf0176/waveguard"><strong>WaveGuard ↗</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/mindsurf0176/assetforge"><img src="./assets/assetforge-cover.svg" width="100%" alt="AssetForge — reproducible sprite pipeline"></a>
-      <p>Normalize, validate, and export sprite animations for web games and Godot.</p>
-      <p><a href="https://github.com/mindsurf0176/assetforge"><strong>AssetForge ↗</strong></a></p>
+      <a href="https://github.com/mindsurf0176/deskpet"><img src="./assets/workbench-deskpet.webp" width="100%" alt="DeskPet — a pixel cat perched on a terminal window"></a>
+      <p>A macOS desktop pet that reacts to Codex, OpenCode, and Orca.</p>
+      <p><a href="https://github.com/mindsurf0176/deskpet"><strong>DeskPet ↗</strong></a> &nbsp; <a href="https://github.com/mindsurf0176/deskpet/releases/tag/v1.3"><sub>v1.3 · notarized</sub></a></p>
     </td>
   </tr>
 </table>
-
-<br>
-
-### Pixels in motion
-
-<a href="https://github.com/mindsurf0176/vesper">
-  <img src="./assets/vesper.jpg" alt="Vesper — a Godot technical-art scene" width="100%">
-</a>
-
-**[Vesper ↗](https://github.com/mindsurf0176/vesper)** &nbsp; / &nbsp; State-based sprites, deterministic assembly, and Godot runtime QA.
-
-<img src="./assets/vesper-strip.jpg" alt="Vesper sprite studies: idle, walk, aim, and attack" width="100%">
 
 <br>
 
